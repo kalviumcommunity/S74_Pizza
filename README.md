@@ -1,6 +1,8 @@
-Project Title: Unusual Pizza Topping Showdown
+**Project Title: Unusual Pizza Topping Showdown**
 
 Project Overview: This project will let users submit and rate the most unusual and bizarre pizza toppings they've ever tried or could imagine. Users can vote on these wacky pizzas, comment on their oddness, and create their own "ultimate pizza disaster" list. it is to create a fun and interactive platform for pizza lovers.
+
+
 
 Key Features:
 
